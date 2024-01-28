@@ -1,0 +1,42 @@
+{
+  "AdminLogin": [
+    {
+      "email": "admin@gmail.com",
+      "password": "1234",
+      "id": "c8c4"
+    }
+  ],
+  "userlogin": [
+    {
+      "id": "d18b",
+      "username": "esakkipandi",
+      "email": "pandiproject2@gmail.com",
+      "password": "Pandi@123"
+    }
+  ],
+  "cart": [
+    {
+      "userid": "d18b",
+      "name": "Neno money plant",
+      "productid": "PROD_819902",
+      "imageUrl": "https://www.fnp.com/images/pr/l/v20230918160122/money-plant-in-colourfull-rajwada-printed-pot-hand-delivery_1.jpg",
+      "price": 222,
+      "rating": "1",
+      "quantity": 1,
+      "total": 222,
+      "description": "good",
+      "id": "9484"
+    }
+  ],
+  "orders": [],
+  "products": [
+    {
+      "id": "PROD_819902",
+      "name": "Neno money plant",
+      "description": "good",
+      "price": 222,
+      "rating": "1",
+      "path": "https://www.fnp.com/images/pr/l/v20230918160122/money-plant-in-colourfull-rajwada-printed-pot-hand-delivery_1.jpg"
+    }
+  ]
+}
